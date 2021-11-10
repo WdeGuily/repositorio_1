@@ -1,1 +1,1 @@
-# repositorio_1
+# Ejercicio que corresponde al primer ejercicio usando GitHub
